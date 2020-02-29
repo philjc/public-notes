@@ -28,7 +28,7 @@ Originally sourced from: https://haydenjames.io/linux-networking-commands-script
 - [ifstat](http://gael.roualland.free.fr/ifstat/) –  report network interfaces bandwidth.
 - [iftop](http://www.ex-parrot.com/pdw/iftop/) – display bandwidth usage.
 - [ip](https://access.redhat.com/sites/default/files/attachments/rh_ip_command_cheatsheet_1214_jcs_print.pdf) (PDF file) – a command with more features that ifconfig (net-tools).
-- [iperf3](https://github.com/esnet/iperf) – network bandwidth measurement tool. (above screenshot [Stacklinux VPS](https://stacklinux.com/))
+- [iperf3](https://github.com/esnet/iperf) – network bandwidth measurement tool.
 - [iproute2](https://wiki.linuxfoundation.org/networking/iproute2) – collection of utilities for controlling TCP/IP.
 - [iptables](https://netfilter.org/) – take control of network traffic.
 - [IPTraf](http://iptraf.seul.org/) – An IP Network Monitor.
